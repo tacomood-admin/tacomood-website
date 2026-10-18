@@ -108,7 +108,8 @@
         {
           "name": "Shrimp Bowl",
           "price": "£14.00",
-          "soldOut": false
+          "soldOut": false,
+          "hidden": true
         },
         {
           "name": "All Meats Bowl",
