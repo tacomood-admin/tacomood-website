@@ -51,7 +51,8 @@
         {
           "name": "Shrimp Tacos",
           "price": "£14.00",
-          "soldOut": false
+          "soldOut": false,
+          "hidden": true
         },
         {
           "name": "Vegan / Veggie Tacos",
